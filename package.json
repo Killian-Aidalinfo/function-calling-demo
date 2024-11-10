@@ -1,0 +1,13 @@
+{
+  "name": "function-calling-demo",
+  "scripts": {
+    "dev": "bun run --hot src/index.ts"
+  },
+  "dependencies": {
+    "@mistralai/mistralai": "^1.3.0",
+    "hono": "^4.6.9"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}
